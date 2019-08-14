@@ -1,8 +1,8 @@
 # Resistor Color
 
 **Intern should*...*  
-write two methods
-    - *ColorCode*, which gets a color and returns an integer associated with that color.
+write two methods  
+    - *ColorCode*, which gets a color and returns an integer associated with that color.  
     - *Colors* which returns an array of strings!
 
 ## Notes
