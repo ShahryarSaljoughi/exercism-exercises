@@ -7,4 +7,4 @@ write two methods
 
 ## Notes
 
-- Intern has to search over an array in some way. They may end up using *Array.IndexOf* or *Array.FindIndex*
+- Intern has to search over an array in some way. They may end up using `Array.IndexOf()` or `Array.FindIndex()`
