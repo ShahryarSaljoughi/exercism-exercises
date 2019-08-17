@@ -18,3 +18,6 @@ To see details and information of each exercise, simply click on them.
 
 8. ## [Robot Name](exercises/Robot-Name.md)
 
+9. ## [Circular Buffer](exercises/Circular-Buffer.md)
+
+10. ## [Clock](exercises/Clock.md)
